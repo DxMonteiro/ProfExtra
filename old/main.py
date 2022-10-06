@@ -1,5 +1,6 @@
 from transformers import pipeline, AutoTokenizer, AutoModelForTokenClassification
 from keybert import KeyBERT
+from rake_nltk import Rake
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -11,9 +12,11 @@ def yake(text):
 
 def get_keywords(text):
     kw_model = KeyBERT()
+    r = Rake()
     head = {
         "KeyBERT": kw_model.extract_keywords(text.get('full'), keyphrase_ngram_range=(1, 2), stop_words=None),
-        "Yake": yake(text.get('full')).get('keywords')
+        "Yake": yake(text.get('full')).get('keywords'),
+        "Rake": r.extract_keywords_from_text(text.get('full'))
     }
     return head
 
