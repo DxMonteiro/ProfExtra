@@ -1,0 +1,540 @@
+{
+  "top_10_papers": [
+    {
+      "doi": "10.1177/2053951714528481",
+      "title": "Big Data, new epistemologies and paradigm shifts",
+      "abstract": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines. In particular, it critically explores new forms of empiricism that declare ‘the end of theory’, the creation of data-driven rather than knowledge-driven science, and the development of digital humanities and computational social sciences that propose radically different ways to make sense of culture, history, economy and society. It is argued that: (1) Big Data and new data analytics are disruptive innovations which are reconfiguring in many instances how research is conducted; and (2) there is an urgent need for wider critical reflection within the academy on the epistemological implications of the unfolding data revolution, a task that has barely begun to be tackled despite the rapid changes in research practices presently taking place. After critically reviewing emerging epistemological positions, it is contended that a potentially fruitful approach would be the development of a situated, reflexive and contextually nuanced epistemology. © The Author(s) 2014 Reprints and permissions: sagepub.co.uk/journalsPermissions.nav.",
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073682542&doi=10.1177%2f2053951714528481&partnerID=40&md5=49cbcd64a939cb47af2f8996d0c114a2",
+      "citations": 1062,
+      "keywords": [
+        "Big Data",
+        "computational social sciences",
+        "data analytics",
+        "data-driven science",
+        "digital humanities",
+        "end of theory",
+        "epistemology",
+        "paradigms"
+      ],
+      "authors": ["Kitchin R."]
+    },
+    {
+      "doi": "10.1007/s11192-014-1229-3",
+      "title": "Disciplinary differences in Twitter scholarly communication",
+      "abstract": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter. Tweets from selected researchers in ten disciplines (astrophysics, biochemistry, digital humanities, economics, history of science, cheminformatics, cognitive science, drug discovery, social network analysis, and sociology) were collected and analyzed both statistically and qualitatively. The researchers tended to share more links and retweet more than the average Twitter users in earlier research and there were clear disciplinary differences in how they used Twitter. Biochemists retweeted substantially more than researchers in the other disciplines. Researchers in digital humanities and cognitive science used Twitter more for conversations, while researchers in economics shared the most links. Finally, whilst researchers in biochemistry, astrophysics, cheminformatics and digital humanities seemed to use Twitter for scholarly communication, scientific use of Twitter in economics, sociology and history of science appeared to be marginal. © 2014, Akadémiai Kiadó, Budapest, Hungary.",
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84892447024&doi=10.1007%2fs11192-014-1229-3&partnerID=40&md5=0f4e0be141475ec6e96b15cb15d1be9c",
+      "citations": 182,
+      "keywords": [
+        "Altmetrics",
+        "Disciplinary differences",
+        "Scholarly communication",
+        "Twitter",
+        "Webometrics"
+      ],
+      "authors": ["Holmberg K.", "Thelwall M."]
+    },
+    {
+      "doi": "10.1177/1461444812465137",
+      "title": "Towards a sociology of computational and algorithmic journalism",
+      "abstract": "This article advances a sociological approach to computational journalism. By \"computational journalism\" the article refers to the increasingly ubiquitous forms of algorithmic, social scientific, and mathematical forms of newswork adopted by many 21st-century newsrooms and touted by many educational institutions as \"the future of news.\" By \"sociological approach,\" the article endorses a research model that brackets, at least temporarily, many of the current industry concerns with the practical usability of newsroom analysis. The bulk of the article outlines a series of six lenses through which such an approach to computational journalism might be carried out. Four of these lenses are drawn from Schudson's classic typology of the sociology of news-economic, political, cultural, and organizational approaches. In addition, the author adds Bordieuean field approaches and technological lenses to the mix. In each instance, the author discusses how particular approaches might need to be modified in order to study computational journalism in the digital age. © The Author(s) 2012.",
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84885769193&doi=10.1177%2f1461444812465137&partnerID=40&md5=a20bafd34c1504f04f5c8bdb72857f46",
+      "citations": 181,
+      "keywords": [
+        "Computational journalism",
+        "culture",
+        "data",
+        "digital humanities",
+        "ethnography",
+        "journalism",
+        "news institutionalism",
+        "political economy"
+      ],
+      "authors": ["Anderson C.W."]
+    },
+    {
+      "doi": "10.1007/s10994-013-5413-0",
+      "title": "Interactive topic modeling",
+      "abstract": "Topic models are a useful and ubiquitous tool for understanding large corpora. However, topic models are not perfect, and for many users in computational social science, digital humanities, and information studies - who are not machine learning experts - existing models and frameworks are often a \"take it or leave it\" proposition. This paper presents a mechanism for giving users a voice by encoding users' feedback to topic models as correlations between words into a topic model. This framework, interactive topic modeling (itm), allows untrained users to encode their feedback easily and iteratively into the topic models. Because latency in interactive systems is crucial, we develop more efficient inference algorithms for tree-based topic models. We validate the framework both with simulated and real users. © 2013 The Author(s).",
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84901496744&doi=10.1007%2fs10994-013-5413-0&partnerID=40&md5=5e9f7ce6d9daf635fb278501a9243d93",
+      "citations": 144,
+      "keywords": [
+        "Feedback",
+        "Gibbs sampling",
+        "Interactive topic modeling",
+        "Latent Dirichlet Allocation",
+        "Online learning",
+        "Topic models"
+      ],
+      "authors": ["Hu Y.", "Boyd-Graber J.", "Satinoff B.", "Smith A."]
+    },
+    {
+      "doi": "10.1108/00220411111109449",
+      "title": "Enabled backchannel: conference Twitter use by digital humanists",
+      "abstract": "Purpose – To date, few studies have been undertaken to make explicit how microblogging technologies are used by and can benefit scholars. This paper aims to investigate the use of Twitter by an academic community in various conference settings, and to pose the following questions: Does the use of a Twitter\ue4f8enabled backchannel enhance the conference experience, collaboration and the co\ue4f8construction of knowledge? and How is microblogging used within academic conferences, and can one articulate the benefits it may bring to a discipline? Design/methodology/approach This paper considers the use of Twitter as a digital backchannel by the Digital Humanities (DH) community, taking as its focus postings to Twitter during three different international 2009 conferences. The resulting archive of 4,574 “Tweets” was analysed using various quantitative and qualitative methods, including a qualitative categorisation of Twitter posts by open coded analysis, a quantitative examination of user conventions, and text analysis tools. Prominent Tweeters were identified and a small qualitative survey was undertaken to ascertain individuals' attitudes towards a Twitter\ue4f8enabled backchannel. Findings – Conference hashtagged Twitter activity does not constitute a single distributed conversation, but rather multiple monologues with a few intermittent, discontinuous, loosely joined dialogues between users. The digital backchannel constitutes a multidirectional complex space in which the users make notes, share resources, hold discussions and ask questions as well as establishing a clear individual online presence. The use of Twitter as a conference platform enables the community to expand communication and participation in events amongst its members. The analysis revealed the close\ue4f8knit nature of the DH researcher community, which may be somewhat intimidating for those new to the field or conference. Practical implications This study has indicated that, given that Twitter is becoming increasingly important for academic communities, new, dedicated methodologies for the analysis and understanding of Tweet\ue4f8based corpora are necessary. Routinely used textual analysis tools cannot be applied to corpora of Tweets in a straightforward manner, due to the creative and fragmentary nature of language used within microblogging. In this paper, a method has been suggested to categorise Tweets using open coded analysis to facilitate understanding of Tweet\ue4f8based corpora, which could be adopted elsewhere. Originality/value – This paper is the first known exhaustive study that concentrates on how microblogging technologies such as Twitter are used by and can benefit scholars. This data set both provides a valuable insight into the prevalence of a variety of Twitter practices within the constraints of a conference setting, and highlights the need for methodologies to be developed to analyse social media streams such as Twitter feeds. It also provides a bibliography of other research into microblogging. © 2011, Emerald Group Publishing Limited",
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-79952292203&doi=10.1108%2f00220411111109449&partnerID=40&md5=63335e5ffd7293ab3b3c3a465d083c7a",
+      "citations": 144,
+      "keywords": [
+        "Conferences",
+        "Digital communication systems",
+        "Social networks",
+        "User studies"
+      ],
+      "authors": ["Ross C.", "Terras M.", "Warwick C.", "Welsh A."]
+    },
+    {
+      "doi": "10.1108/AJIM-09-2013-0094",
+      "title": "Programmed method: Developing a toolset for capturing and analyzing tweets",
+      "abstract": "Purpose–The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data. Instead of just presenting a technical paper detailing the system, however, the authors argue that the type of data used for, as well as the methods encoded in, computational systems have epistemological repercussions for research. The authors thus aim at situating the development of the toolset in relation to methodological debates in the social sciences and humanities. Design/methodology/approach–The authors review the possibilities and limitations of existing approaches to capture and analyze Twitter data in order to address the various ways in which computational systems frame research. The authors then introduce the open-source toolset and put forward an approach that embraces methodological diversity and epistemological plurality. Findings–The authors find that design decisions and more general methodological reasoning can and should go hand in hand when building tools for computational social science or digital humanities. Practical implications–Besides methodological transparency, the software provides robust and reproducible data capture and analysis, and interlinks with existing analytical software. Epistemic plurality is emphasized by taking into account how Twitter structures information, by allowing for a number of different sampling techniques, by enabling a variety of analytical approaches or paradigms, and by facilitating work at the micro, meso, and macro levels. Originality/value–The paper opens up critical debate by connecting tool design to fundamental interrogations of methodology and its repercussions for the production of knowledge. The design of the software is inspired by exchanges and debates with scholars from a variety of disciplines and the attempt to propose a flexible and extensible tool that accommodates a wide array of methodological approaches is directly motivated by the desire to keep computational work open for various epistemic sensibilities. © Emerald Group Publishing Limited.",
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84928249663&doi=10.1108%2fAJIM-09-2013-0094&partnerID=40&md5=503326daa805093e265cece8d666ac3d",
+      "citations": 143,
+      "keywords": [
+        "Analysis",
+        "Computational social science",
+        "Data collection",
+        "Digital humanities",
+        "Digital methods",
+        "Twitter"
+      ],
+      "authors": ["Borra E.", "Rieder B."]
+    },
+    {
+      "doi": "10.32614/rj-2016-007",
+      "title": "Stylometry with R: A package for computational text analysis",
+      "abstract": "This software paper describes 'Stylometry with R' (stylo), a flexible R package for the highlevel analysis of writing style in stylometry. Stylometry (computational stylistics) is concerned with the quantitative study of writing style, e.g. authorship verification, an application which has considerable potential in forensic contexts, as well as historical research. In this paper we introduce the possibilities of stylo for computational text analysis, via a number of dummy case studies from English and French literature. We demonstrate how the package is particularly useful in the exploratory statistical analysis of texts, e.g. with respect to authorial writing style. Because stylo provides an attractive graphical user interface for high-level exploratory analyses, it is especially suited for an audience of novices, without programming skills (e.g. from the Digital Humanities). More experienced users can benefit from our implementation of a series of standard pipelines for text processing, as well as a number of similarity metrics.",
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85010281284&doi=10.32614%2frj-2016-007&partnerID=40&md5=7bc156d9c817b635cf13a9dd554f5ba3",
+      "citations": 134,
+      "keywords": [],
+      "authors": ["Eder M.", "Rybicki J.", "Kestemont M."]
+    },
+    {
+      "doi": "10.1080/01916599.2012.714635",
+      "title": "What's the Big Idea? Intellectual History and the Longue Durée",
+      "abstract": "Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect. There are even signs that intellectual historians are returning to the longue durée. What are the reasons for this revival of long-range intellectual history? And how might it be rendered methodologically robust as well as historically compelling? This article proposes a model of transtemporal history, proceeding via serial contextualism to create a history in ideas spanning centuries, even millennia: key examples come from work in progress on ideas of civil war from ancient Rome to the present. The article concludes with brief reflections on the potential impact of the digital humanities on the practice of long-range intellectual history. © 2012 Copyright Taylor and Francis Group, LLC.",
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84868280635&doi=10.1080%2f01916599.2012.714635&partnerID=40&md5=3b5e264dcffa6a16aad5f2d68dfad625",
+      "citations": 109,
+      "keywords": [
+        "Cambridge School",
+        "civil war",
+        "conceptual history",
+        "digital humanities",
+        "longue durée"
+      ],
+      "authors": ["Armitage D."]
+    },
+    {
+      "doi": "10.1111/j.1475-5661.2010.00405.x",
+      "title": "Mapping the English Lake District: A literary GIS",
+      "abstract": "To date, much of the work that uses Geographical Information Systems (GIS) to study human geographies applies a social science paradigm to quantitative data. There is a growing recognition of the need, however, to test whether GIS can be used to map out the qualitative 'data' provided by the articulation of subjective spatial experiences. This paper expands the conceptual possibilities opened up by the use of GIS technology through an exploration of the theoretical potentiality of literary GIS. Drawing on work carried out as part of an interdisciplinary project, 'Mapping the Lakes', the paper focuses on the ways in which GIS can be used to explore the spatial relationships between two textual accounts of tours of the English Lake District: the proto-Picturesque journey undertaken by the poet, Thomas Gray, in the autumn of 1769; and Samuel Taylor Coleridge's self-consciously post-Picturesque 'circumcursion' of August 1802. Alongside this text-specific focus, the paper also draws on recent spatial literary criticism to reflect, more generally, on the critical possibilities and problems associated with the digital mapping of space and place in literature. Ultimately, the paper seeks to open up methodological and critical space for the ongoing development of literary GIS. © 2010 The Authors. Transactions of the Institute of British Geographers © 2010 Royal Geographical Society (with the Institute of British Geographers).",
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-78649784112&doi=10.1111%2fj.1475-5661.2010.00405.x&partnerID=40&md5=a49abb3528b15ede2dd5067792dd83e5",
+      "citations": 93,
+      "keywords": [
+        "Digital humanities",
+        "English Lake District",
+        "GIS",
+        "Literary cartography",
+        "Literary studies",
+        "Spatial theory"
+      ],
+      "authors": ["Cooper D.", "Gregory I.N."]
+    },
+    {
+      "doi": "10.1177/0309132512444063",
+      "title": "Crossing the qualitative- quantitative divide II: Inventive approaches to big data, mobile methods, and rhythmanalysis",
+      "abstract": "In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time. We again focus on scholarship crossing multiple geographical divides, those of neo/paleo geography, qualitative/quantitative methods, and physical/human geography. We do so now by concentrating on three areas: the emerging digital humanities and the rise of big data, mobile methods, and rhythmanalysis. With this broad approach we seek also to encourage consilience, synergy, and a positive embrace of diversity in geographical scholarship. © The Author(s) 2012.",
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84875024343&doi=10.1177%2f0309132512444063&partnerID=40&md5=515741df9a331ef610192a73dfcc8080",
+      "citations": 89,
+      "keywords": [
+        "big data",
+        "digital humanities",
+        "inventive methods",
+        "methodology",
+        "mobile methods",
+        "mobilities",
+        "qualitative",
+        "quantitative"
+      ],
+      "authors": ["DeLyser D.", "Sui D."]
+    }
+  ],
+  "top_10_authors": [
+    { "name": "Kitchin R.", "frequence": 1, "citations": 1062 },
+    { "name": "Terras M.", "frequence": 8, "citations": 218 },
+    { "name": "Warwick C.", "frequence": 5, "citations": 191 },
+    { "name": "Holmberg K.", "frequence": 1, "citations": 182 },
+    { "name": "Thelwall M.", "frequence": 1, "citations": 182 },
+    { "name": "Anderson C.W.", "frequence": 1, "citations": 181 },
+    { "name": "Welsh A.", "frequence": 3, "citations": 154 },
+    { "name": "Kestemont M.", "frequence": 5, "citations": 147 },
+    { "name": "Hu Y.", "frequence": 1, "citations": 144 },
+    { "name": "Boyd-Graber J.", "frequence": 1, "citations": 144 }
+  ],
+  "top_10_keywords": [
+    { "name": "Digital humanities", "frequence": 593, "citations": 2692 },
+    { "name": "Florence", "frequence": 1, "citations": 0 },
+    { "name": "LiDAR", "frequence": 1, "citations": 0 },
+    { "name": "Model", "frequence": 1, "citations": 0 },
+    { "name": "Orsanmichele", "frequence": 1, "citations": 0 },
+    { "name": "Photogrammetry", "frequence": 3, "citations": 1 },
+    { "name": "Potree", "frequence": 1, "citations": 0 },
+    { "name": "Scan", "frequence": 1, "citations": 0 },
+    { "name": "3D technologies", "frequence": 1, "citations": 0 },
+    { "name": "Archaeology", "frequence": 12, "citations": 30 }
+  ],
+  "summaries": [
+    {
+      "doi": "10.1177/2053951714528481",
+      "title": "Big Data, new epistemologies and paradigm shifts",
+      "summ_abstract": [
+        {
+          "model": "facebook/bart-large-cnn",
+          "summarized_text": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities. In particular, it critically explores new forms of empiricism that declare ‘the end of theory’ and the creation of data-driven rather than knowledge-driven science."
+        },
+        {
+          "model": "sshleifer/distilbart-cnn-12-6",
+          "summarized_text": " This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities . In particular, it critically explores new forms of empiricism that declare ‘the end of theory’ and the creation of data-driven rather than knowledge-driven science ."
+        },
+        {
+          "model": "philschmid/bart-large-cnn-samsum",
+          "summarized_text": "Big Data and new data analytics are disruptive innovations which are reconfiguring in many instances how research is conducted. There is an urgent need for a critical reflection within the academy on the epistemological implications of the unfolding data revolution. A potentially fruitful approach would be the development of a situated, reflexive and contextually nuanced epistemology."
+        },
+        {
+          "model": "google/pegasus-large",
+          "summarized_text": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines."
+        },
+        {
+          "model": "sshleifer/distill-pegasus-cnn-16-4",
+          "summarized_text": "The availability of Big Data and new data analytics challenges established epistemologies across the sciences, social sciences and humanities . It assesses the extent to which they are engendering paradigm shifts across multiple disciplines ."
+        }
+      ],
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073682542&doi=10.1177%2f2053951714528481&partnerID=40&md5=49cbcd64a939cb47af2f8996d0c114a2",
+      "citations": 1062,
+      "keywords": [
+        "Big Data",
+        "computational social sciences",
+        "data analytics",
+        "data-driven science",
+        "digital humanities",
+        "end of theory",
+        "epistemology",
+        "paradigms"
+      ]
+    },
+    {
+      "doi": "10.1007/s11192-014-1229-3",
+      "title": "Disciplinary differences in Twitter scholarly communication",
+      "summ_abstract": [
+        {
+          "model": "facebook/bart-large-cnn",
+          "summarized_text": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter. Tweets from selected researchers in ten disciplines were collected and analyzed both statistically and qualitatively. The researchers tended to share more links and retweet more than the average Twitter users in earlier research. Biochemists retweeted substantially more than researchers in the other disciplines."
+        },
+        {
+          "model": "sshleifer/distilbart-cnn-12-6",
+          "summarized_text": " This paper investigates disciplinary differences in how researchers use Twitter . Tweets from selected researchers in ten disciplines were collected and analyzed both statistically and qualitatively . Biochemists retweeted substantially more than researchers in the other disciplines . Researchers in digital humanities and cognitive science used Twitter more for conversations, while researchers in economics shared the most links ."
+        },
+        {
+          "model": "philschmid/bart-large-cnn-samsum",
+          "summarized_text": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter. Tweets from selected researchers in ten disciplines were collected and analyzed both statistically and qualitatively. The researchers tended to share more links and retweet more than the average Twitter user. Biochemists retweeted substantially more than researchers in the other disciplines. Researchers in digital humanities used Twitter more for conversations, while researchers in economics shared the most links."
+        },
+        {
+          "model": "google/pegasus-large",
+          "summarized_text": "Finally, whilst researchers in biochemistry, astrophysics, cheminformatics and digital humanities seemed to use Twitter for scholarly communication, scientific use of Twitter in economics, sociology and history of science appeared to be marginal."
+        },
+        {
+          "model": "sshleifer/distill-pegasus-cnn-16-4",
+          "summarized_text": "The researchers tended to share more links and retweet more than the average Twitter users . Biochemists retweeted substantially more than researchers in the other disciplines ."
+        }
+      ],
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84892447024&doi=10.1007%2fs11192-014-1229-3&partnerID=40&md5=0f4e0be141475ec6e96b15cb15d1be9c",
+      "citations": 182,
+      "keywords": [
+        "Altmetrics",
+        "Disciplinary differences",
+        "Scholarly communication",
+        "Twitter",
+        "Webometrics"
+      ]
+    },
+    {
+      "doi": "10.1177/1461444812465137",
+      "title": "Towards a sociology of computational and algorithmic journalism",
+      "summ_abstract": [
+        {
+          "model": "facebook/bart-large-cnn",
+          "summarized_text": "This article advances a sociological approach to computational journalism. By \"computational journalism\" the article refers to the increasingly ubiquitous forms of algorithmic, social scientific, and mathematical forms of newswork. Four of these lenses are drawn from Schudson's classic typology of the sociology of news-economic, political, cultural, and organizational approaches. In addition, the author adds Bordieuean field approaches and technological lenses to the mix."
+        },
+        {
+          "model": "sshleifer/distilbart-cnn-12-6",
+          "summarized_text": " This article advances a sociological approach to computational journalism . The bulk of the article outlines a series of six lenses through which such an approach might be carried out . Four of these lenses are drawn from Schudson's classic typology of the sociology of news-economic, political, cultural, and organizational approaches . In each instance, the author discusses how particular approaches might need to be modified ."
+        },
+        {
+          "model": "philschmid/bart-large-cnn-samsum",
+          "summarized_text": "This article advances a sociological approach to computational journalism. Four of the lenses are drawn from Schudson's classic typology of the sociology of news-economic, political, cultural, and organizational approaches. The author adds Bordieuean field approaches and technological lenses to the mix."
+        },
+        {
+          "model": "google/pegasus-large",
+          "summarized_text": "The bulk of the article outlines a series of six lenses through which such an approach to computational journalism might be carried out."
+        },
+        {
+          "model": "sshleifer/distill-pegasus-cnn-16-4",
+          "summarized_text": "The article refers to increasingly ubiquitous forms of algorithmic, social scientific, and mathematical forms of newswork adopted by many 21st-century newsrooms . The article endorses a research model that brackets, at least temporarily, many of the current industry concerns with the practical usability of newsroom analysis ."
+        }
+      ],
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84885769193&doi=10.1177%2f1461444812465137&partnerID=40&md5=a20bafd34c1504f04f5c8bdb72857f46",
+      "citations": 181,
+      "keywords": [
+        "Computational journalism",
+        "culture",
+        "data",
+        "digital humanities",
+        "ethnography",
+        "journalism",
+        "news institutionalism",
+        "political economy"
+      ]
+    },
+    {
+      "doi": "10.1007/s10994-013-5413-0",
+      "title": "Interactive topic modeling",
+      "summ_abstract": [
+        {
+          "model": "facebook/bart-large-cnn",
+          "summarized_text": " Topic models are a useful and ubiquitous tool for understanding large corpora. For many users in computational social science, digital humanities, and information studies - who are not machine learning experts - existing models and frameworks are often a \"take it or leave it\" proposition. This paper presents a mechanism for giving users a voice by encoding users' feedback to topic models."
+        },
+        {
+          "model": "sshleifer/distilbart-cnn-12-6",
+          "summarized_text": " Topic models are useful and ubiquitous tool for understanding large corpora, but topic models are not perfect . This paper presents a mechanism for giving users a voice by encoding users' feedback to topic models as correlations between words into a topic model . This framework, interactive topic modeling (itm), allows untrained users to encode their feedback easily and iteratively into the topic models ."
+        },
+        {
+          "model": "philschmid/bart-large-cnn-samsum",
+          "summarized_text": "Topic models are useful tool for understanding large corpora, but not perfect. Interactive topic modeling allows untrained users to encode their feedback easily and iteratively into the topic models. The paper developed more efficient inference algorithms for tree-based topic models and validated the framework with simulated and real users."
+        },
+        {
+          "model": "google/pegasus-large",
+          "summarized_text": "This framework, interactive topic modeling (itm), allows untrained users to encode their feedback easily and iteratively into the topic models."
+        },
+        {
+          "model": "sshleifer/distill-pegasus-cnn-16-4",
+          "summarized_text": "We develop more efficient inference algorithms for tree-based topic models . We validate the framework both with simulated and real users ."
+        }
+      ],
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84901496744&doi=10.1007%2fs10994-013-5413-0&partnerID=40&md5=5e9f7ce6d9daf635fb278501a9243d93",
+      "citations": 144,
+      "keywords": [
+        "Feedback",
+        "Gibbs sampling",
+        "Interactive topic modeling",
+        "Latent Dirichlet Allocation",
+        "Online learning",
+        "Topic models"
+      ]
+    },
+    {
+      "doi": "10.1108/00220411111109449",
+      "title": "Enabled backchannel: conference Twitter use by digital humanists",
+      "summ_abstract": [
+        {
+          "model": "facebook/bart-large-cnn",
+          "summarized_text": "Few studies have been undertaken to make explicit how microblogging technologies are used by and can benefit scholars. This paper considers the use of Twitter as a digital backchannel by the Digital Humanities (DH) community. The resulting archive of 4,574 “Tweets” was analysed using various quantitative and qualitative methods."
+        },
+        {
+          "model": "sshleifer/distilbart-cnn-12-6",
+          "summarized_text": " Few studies have been undertaken to make explicit how microblogging technologies are used by and can benefit scholars . This paper considers the use of Twitter as a digital backchannel by the Digital Humanities (DH) community . The analysis revealed the close-knit nature of the DH researcher community, which may be somewhat intimidating for those new to the field or conference ."
+        },
+        {
+          "model": "philschmid/bart-large-cnn-samsum",
+          "summarized_text": "This paper considers the use of Twitter as a digital backchannel by the Digital Humanities community at three international 2009 conferences. The archive of 4,574 Tweets was analysed using various quantitative and qualitative methods. The analysis revealed the close-knit nature of the DH researcher community."
+        },
+        {
+          "model": "google/pegasus-large",
+          "summarized_text": "This paper aims to investigate the use of Twitter by an academic community in various conference settings, and to pose the following questions: Does the use of a Twitterenabled backchannel enhance the conference experience, collaboration and the coconstruction of knowledge? Design/methodology/approach This paper considers the use of Twitter as a digital backchannel by the Digital Humanities (DH) community, taking as its focus postings to Twitter during three different international 2009 conferences. In this paper, a method has been suggested to categorise Tweets using open coded analysis to facilitate understanding of Tweetbased corpora, which could be adopted elsewhere."
+        },
+        {
+          "model": "sshleifer/distill-pegasus-cnn-16-4",
+          "summarized_text": "This paper aims to investigate the use of Twitter by an academic community in various conference settings . The archive of 4,574 'Tweets' was analysed using various quantitative and qualitative methods . The analysis revealed the closeknit nature of the DH researcher community, which may be somewhat intimidating for those new to the field or conference ."
+        }
+      ],
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-79952292203&doi=10.1108%2f00220411111109449&partnerID=40&md5=63335e5ffd7293ab3b3c3a465d083c7a",
+      "citations": 144,
+      "keywords": [
+        "Conferences",
+        "Digital communication systems",
+        "Social networks",
+        "User studies"
+      ]
+    },
+    {
+      "doi": "10.1108/AJIM-09-2013-0094",
+      "title": "Programmed method: Developing a toolset for capturing and analyzing tweets",
+      "summ_abstract": [
+        {
+          "model": "facebook/bart-large-cnn",
+          "summarized_text": "Digital Methods Initiative Twitter Capture and Analysis Toolset is a toolset for capturing and analyzing Twitter data. The authors aim at situating the development of the toolset in relation to methodological debates in the social sciences and humanities. The software provides robust and reproducible data capture and analysis, and interlinks with existing analytical software."
+        },
+        {
+          "model": "sshleifer/distilbart-cnn-12-6",
+          "summarized_text": " Digital Methods Initiative Twitter Capture and Analysis Toolset is a toolset for capturing and analyzing Twitter data . The authors argue that the type of data used for, as well as the methods encoded in, computational systems have epistemological repercussions for research . They aim at situating the development of the toolset in relation to methodological debates in the social sciences and humanities ."
+        },
+        {
+          "model": "philschmid/bart-large-cnn-samsum",
+          "summarized_text": "Digital Methods Initiative Twitter Capture and Analysis Toolset is a toolset for capturing and analyzing Twitter data. The design of the software is inspired by exchanges and debates with scholars from a variety of disciplines. The aim is to keep computational work open for various epistemic sensibilities."
+        },
+        {
+          "model": "google/pegasus-large",
+          "summarized_text": "Design/methodology/approach–The authors review the possibilities and limitations of existing approaches to capture and analyze Twitter data in order to address the various ways in which computational systems frame research."
+        },
+        {
+          "model": "sshleifer/distill-pegasus-cnn-16-4",
+          "summarized_text": "The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data . The authors aim at situating the development of the toolset in relation to methodological debates in the social sciences and humanities ."
+        }
+      ],
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84928249663&doi=10.1108%2fAJIM-09-2013-0094&partnerID=40&md5=503326daa805093e265cece8d666ac3d",
+      "citations": 143,
+      "keywords": [
+        "Analysis",
+        "Computational social science",
+        "Data collection",
+        "Digital humanities",
+        "Digital methods",
+        "Twitter"
+      ]
+    },
+    {
+      "doi": "10.32614/rj-2016-007",
+      "title": "Stylometry with R: A package for computational text analysis",
+      "summ_abstract": [
+        {
+          "model": "facebook/bart-large-cnn",
+          "summarized_text": "Stylometry (computational stylistics) is concerned with the quantitative study of writing style. Stylo provides an attractive graphical user interface for high-level exploratory analyses. It is especially suited for an audience of novices, without programming skills (e.g. from the Digital Humanities)"
+        },
+        {
+          "model": "sshleifer/distilbart-cnn-12-6",
+          "summarized_text": " This software paper describes 'Stylometry with R' (stylo), a flexible R package for the highlevel analysis of writing style in stylometry . Stylometry (computational stylistics) is concerned with the quantitative study of . writing style, e.g. authorship verification . This application has considerable potential in forensic contexts, as well as historical research ."
+        },
+        {
+          "model": "philschmid/bart-large-cnn-samsum",
+          "summarized_text": "Stylometry with R (stylo) is a flexible R package for the high level analysis of writing style in stylometry. Stylometry (computational stylistics) is concerned with the quantitative study of the writing style. It has potential in forensic contexts, as well as historical research."
+        },
+        {
+          "model": "google/pegasus-large",
+          "summarized_text": "This software paper describes 'Stylometry with R' (stylo), a flexible R package for the highlevel analysis of writing style in stylometry."
+        },
+        {
+          "model": "sshleifer/distill-pegasus-cnn-16-4",
+          "summarized_text": "'Stylometry with R' (stylo) is a flexible R package for the highlevel analysis of writing style in stylometry . Stylometry (computational stylistics) is concerned with the quantitative study of writing style ."
+        }
+      ],
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85010281284&doi=10.32614%2frj-2016-007&partnerID=40&md5=7bc156d9c817b635cf13a9dd554f5ba3",
+      "citations": 134,
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/01916599.2012.714635",
+      "title": "What's the Big Idea? Intellectual History and the Longue Durée",
+      "summ_abstract": [
+        {
+          "model": "facebook/bart-large-cnn",
+          "summarized_text": "Historians of all kinds are beginning to return to temporally expansive studies. What are the reasons for this revival of long-range intellectual history? And how might it be rendered methodologically robust as well as historically compelling? This article proposes a model of transtemporal history, proceeding via serial contextualism."
+        },
+        {
+          "model": "sshleifer/distilbart-cnn-12-6",
+          "summarized_text": " Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect . This article proposes a model of transtemporal history, proceeding via serial contextualism to create a history in ideas spanning centuries, even millennia . Key examples come from work in progress on ideas of civil war from ancient Rome to the present ."
+        },
+        {
+          "model": "philschmid/bart-large-cnn-samsum",
+          "summarized_text": "There are signs that historians are returning to long-range intellectual history. This article proposes a model of transtemporal history, proceeding via serial contextualism to create a history in ideas spanning centuries and millennia. The article concludes with reflections on the potential impact of the digital humanities on the practice of long-distance history."
+        },
+        {
+          "model": "google/pegasus-large",
+          "summarized_text": "The article concludes with brief reflections on the potential impact of the digital humanities on the practice of long-range intellectual history."
+        },
+        {
+          "model": "sshleifer/distill-pegasus-cnn-16-4",
+          "summarized_text": "Historians of all kinds are returning to temporally expansive studies after decades of aversion and neglect . This article proposes a model of transtemporal history, proceeding via serial contextualism to create a history in ideas spanning centuries, even millennia ."
+        }
+      ],
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84868280635&doi=10.1080%2f01916599.2012.714635&partnerID=40&md5=3b5e264dcffa6a16aad5f2d68dfad625",
+      "citations": 109,
+      "keywords": [
+        "Cambridge School",
+        "civil war",
+        "conceptual history",
+        "digital humanities",
+        "longue durée"
+      ]
+    },
+    {
+      "doi": "10.1111/j.1475-5661.2010.00405.x",
+      "title": "Mapping the English Lake District: A literary GIS",
+      "summ_abstract": [
+        {
+          "model": "facebook/bart-large-cnn",
+          "summarized_text": "This paper expands the conceptual possibilities opened up by the use of GIS technology through an exploration of the theoretical potentiality of literary GIS. Drawing on work carried out as part of an interdisciplinary project, 'Mapping the Lakes', the paper focuses on the ways in which GIS can be used to explore the spatial relationships between two textual accounts of tours."
+        },
+        {
+          "model": "sshleifer/distilbart-cnn-12-6",
+          "summarized_text": " This paper expands the conceptual possibilities opened up by the use of GIS technology through an exploration of the theoretical potentiality of literary GIS . Drawing on work carried out as part of an interdisciplinary project, 'Mapping the Lakes', the paper focuses on the ways in which GIS can be used to explore the spatial relationships between two textual accounts of tours of the English Lake District ."
+        },
+        {
+          "model": "philschmid/bart-large-cnn-samsum",
+          "summarized_text": "This paper explores the theoretical potentiality of literary GIS. It is based on work carried out as part of an interdisciplinary project, 'Mapping the Lakes'. The paper focuses on the spatial relationships between two textual accounts of tours of the English Lake District: Thomas Gray's in the autumn of 1769 and Samuel Taylor Coleridge's in August 1802."
+        },
+        {
+          "model": "google/pegasus-large",
+          "summarized_text": "Alongside this text-specific focus, the paper also draws on recent spatial literary criticism to reflect, more generally, on the critical possibilities and problems associated with the digital mapping of space and place in literature."
+        },
+        {
+          "model": "sshleifer/distill-pegasus-cnn-16-4",
+          "summarized_text": "This paper expands the conceptual possibilities opened up by the use of GIS technology . It focuses on the ways in which GIS can be used to explore the spatial relationships between two textual accounts of tours of the English Lake District . Ultimately, the paper seeks to open up methodological and critical space for the ongoing development of literary GIS ."
+        }
+      ],
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-78649784112&doi=10.1111%2fj.1475-5661.2010.00405.x&partnerID=40&md5=a49abb3528b15ede2dd5067792dd83e5",
+      "citations": 93,
+      "keywords": [
+        "Digital humanities",
+        "English Lake District",
+        "GIS",
+        "Literary cartography",
+        "Literary studies",
+        "Spatial theory"
+      ]
+    },
+    {
+      "doi": "10.1177/0309132512444063",
+      "title": "Crossing the qualitative- quantitative divide II: Inventive approaches to big data, mobile methods, and rhythmanalysis",
+      "summ_abstract": [
+        {
+          "model": "facebook/bart-large-cnn",
+          "summarized_text": "In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time. We again focus on scholarship crossing multiple geographical divides, those of neo/paleo geography, qualitative/quantitative methods, and physical/human geography. We do so now by concentrating on three areas: the emerging digital humanities and the rise of big data."
+        },
+        {
+          "model": "sshleifer/distilbart-cnn-12-6",
+          "summarized_text": " In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time . We again focus on scholarship crossing multiple geographical divides, those of neo/paleo geography, qualitative/quantitative methods, and physical/human geography . With this broad approach we seek also to encourage consilience, synergy, and a positive embrace of diversity in geographical scholarship ."
+        },
+        {
+          "model": "philschmid/bart-large-cnn-samsum",
+          "summarized_text": "In the second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time. We focus on scholarship crossing multiple geographical divides, those of neo/paleo geography, qualitative/quantitative methods, and physical/human geography."
+        },
+        {
+          "model": "google/pegasus-large",
+          "summarized_text": "We again focus on scholarship crossing multiple geographical divides, those of neo/paleo geography, qualitative/quantitative methods, and physical/human geography."
+        },
+        {
+          "model": "sshleifer/distill-pegasus-cnn-16-4",
+          "summarized_text": "In this second of three reports on qualitative and quantitative methods we highlight novel methods . We aim to encourage consilience, synergy and a positive embrace of diversity in geographical scholarship ."
+        }
+      ],
+      "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84875024343&doi=10.1177%2f0309132512444063&partnerID=40&md5=515741df9a331ef610192a73dfcc8080",
+      "citations": 89,
+      "keywords": [
+        "big data",
+        "digital humanities",
+        "inventive methods",
+        "methodology",
+        "mobile methods",
+        "mobilities",
+        "qualitative",
+        "quantitative"
+      ]
+    }
+  ]
+}
