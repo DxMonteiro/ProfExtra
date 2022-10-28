@@ -1,3 +1,4 @@
+import wikipedia
 from PyDictionary import PyDictionary
 import nltk
 nltk.download('punkt')
@@ -11,7 +12,19 @@ class Meaninger():
         self.dc = PyDictionary()
         self.nlp = spacy.load(model)
         
-    def get_meaning_dictionary(self, word):
+    def get_meaning_dictionary_py(self, word):
+        my_doc = self.nlp(word)
+        if len(my_doc) > 1:
+            return 'No meaning found'
+        return self.dc.meaning(word, disable_errors=True)
+    
+    def get_meaning_wiki(self, word):
+        try: 
+            return wikipedia.summary(word, sentences=1)
+        except:
+            return 'No meaning found'
+    
+    def get_meaning_dictionary_py(self, word):
         my_doc = self.nlp(word)
         if len(my_doc) > 1:
             return 'No meaning found'
@@ -29,8 +42,10 @@ class Meaninger():
         for word in words:
             head = {
                 "keyword": str(word),
-                "dictionary": self.get_meaning_dictionary(str(word)),        
-                "meaning_summary": self.get_meaning_summary(str(text), str(word))
+                "python_dictionary": self.get_meaning_dictionary_py(str(word)),   
+                "wikipedia": self.get_meaning_wiki(str(word)),    
+                "context_from_abstract": self.get_meaning_summary(str(text), str(word))
             }
+            print(head)
             data.append(head)
         return data

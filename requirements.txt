@@ -153,5 +153,6 @@ wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
 websocket-client @ file:///tmp/build/80754af9/websocket-client_1614803975924/work
 widgetsnbextension @ file:///tmp/build/80754af9/widgetsnbextension_1644992802045/work
+wikipedia==1.4.0
 yake==0.4.8
 zipp @ file:///opt/conda/conda-bld/zipp_1652341764480/work
