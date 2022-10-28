@@ -1,0 +1,1445 @@
+[
+  {
+    "doi": "10.1177/2053951714528481",
+    "title": "Big Data, new epistemologies and paradigm shifts",
+    "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073682542&doi=10.1177%2f2053951714528481&partnerID=40&md5=49cbcd64a939cb47af2f8996d0c114a2",
+    "citations": 1062,
+    "authors": ["Kitchin R."],
+    "original_abstract": {
+      "text": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines. In particular, it critically explores new forms of empiricism that declare \u2018the end of theory\u2019, the creation of data-driven rather than knowledge-driven science, and the development of digital humanities and computational social sciences that propose radically different ways to make sense of culture, history, economy and society. It is argued that: (1) Big Data and new data analytics are disruptive innovations which are reconfiguring in many instances how research is conducted; and (2) there is an urgent need for wider critical reflection within the academy on the epistemological implications of the unfolding data revolution, a task that has barely begun to be tackled despite the rapid changes in research practices presently taking place. After critically reviewing emerging epistemological positions, it is contended that a potentially fruitful approach would be the development of a situated, reflexive and contextually nuanced epistemology. \u00a9 The Author(s) 2014 Reprints and permissions: sagepub.co.uk/journalsPermissions.nav.",
+      "num_chars": 1318,
+      "num_words": 216,
+      "unique_words": 135,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 53,
+        "#adjective": 20,
+        "#adverb": 8,
+        "#verb": 24,
+        "lexical_diversity": 105,
+        "lexical_density": 48.61111111111111
+      },
+      "sentiment_analysis": "Error in sentiment analysis"
+    },
+    "summarized_abstract": {
+      "summarized_text": " This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities . In particular, it critically explores new forms of empiricism that declare \u2018the end of theory\u2019 and the creation of data-driven rather than knowledge-driven science .",
+      "num_chars": 347,
+      "num_words": 61,
+      "unique_words": 45,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 17,
+        "#adjective": 4,
+        "#adverb": 2,
+        "#verb": 7,
+        "lexical_diversity": 30,
+        "lexical_density": 49.18032786885246
+      },
+      "sentiment_analysis": [{ "label": "NEU", "score": 0.9183141589164734 }]
+    },
+    "author_keywords": [
+      {
+        "keyword": "Big Data",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines."
+      },
+      {
+        "keyword": "computational social sciences",
+        "dictionary": "No meaning found",
+        "meaning_summary": "In particular, it critically explores new forms of empiricism that declare \u2018the end of theory\u2019, the creation of data-driven rather than knowledge-driven science, and the development of digital humanities and computational social sciences that propose radically different ways to make sense of culture, history, economy and society."
+      },
+      {
+        "keyword": "data analytics",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines."
+      },
+      {
+        "keyword": "data-driven science",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "digital humanities",
+        "dictionary": "No meaning found",
+        "meaning_summary": "In particular, it critically explores new forms of empiricism that declare \u2018the end of theory\u2019, the creation of data-driven rather than knowledge-driven science, and the development of digital humanities and computational social sciences that propose radically different ways to make sense of culture, history, economy and society."
+      },
+      {
+        "keyword": "end of theory",
+        "dictionary": "No meaning found",
+        "meaning_summary": "In particular, it critically explores new forms of empiricism that declare \u2018the end of theory\u2019, the creation of data-driven rather than knowledge-driven science, and the development of digital humanities and computational social sciences that propose radically different ways to make sense of culture, history, economy and society."
+      },
+      {
+        "keyword": "epistemology",
+        "dictionary": { "Noun": ["the philosophical theory of knowledge"] },
+        "meaning_summary": "After critically reviewing emerging epistemological positions, it is contended that a potentially fruitful approach would be the development of a situated, reflexive and contextually nuanced epistemology."
+      },
+      {
+        "keyword": "paradigms",
+        "dictionary": {
+          "Noun": [
+            "systematic arrangement of all the inflected forms of a word",
+            "a standard or typical example",
+            "the class of all items that can be substituted into the same position (or slot",
+            "are in paradigmatic relation with one another",
+            "the generally accepted perspective of a particular discipline at a given time"
+          ]
+        },
+        "meaning_summary": "No meaning found"
+      }
+    ],
+    "automatic_keywords": [
+      {
+        "keyword": "challenges established epistemologies",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines."
+      },
+      {
+        "keyword": "engendering paradigm shifts",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines."
+      },
+      {
+        "keyword": "Big Data",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines."
+      },
+      {
+        "keyword": "computational social sciences",
+        "dictionary": "No meaning found",
+        "meaning_summary": "In particular, it critically explores new forms of empiricism that declare \u2018the end of theory\u2019, the creation of data-driven rather than knowledge-driven science, and the development of digital humanities and computational social sciences that propose radically different ways to make sense of culture, history, economy and society."
+      },
+      {
+        "keyword": "challenges established",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines."
+      },
+      {
+        "keyword": "multiple disciplines",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines."
+      },
+      {
+        "keyword": "social sciences",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines."
+      },
+      {
+        "keyword": "article examines",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines."
+      },
+      {
+        "keyword": "established epistemologies",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines."
+      },
+      {
+        "keyword": "assesses the extent",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article examines how the availability of Big Data, coupled with new data analytics, challenges established epistemologies across the sciences, social sciences and humanities, and assesses the extent to which they are engendering paradigm shifts across multiple disciplines."
+      }
+    ]
+  },
+  {
+    "doi": "10.1007/s11192-014-1229-3",
+    "title": "Disciplinary differences in Twitter scholarly communication",
+    "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84892447024&doi=10.1007%2fs11192-014-1229-3&partnerID=40&md5=0f4e0be141475ec6e96b15cb15d1be9c",
+    "citations": 182,
+    "authors": ["Holmberg K.", "Thelwall M."],
+    "original_abstract": {
+      "text": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter. Tweets from selected researchers in ten disciplines (astrophysics, biochemistry, digital humanities, economics, history of science, cheminformatics, cognitive science, drug discovery, social network analysis, and sociology) were collected and analyzed both statistically and qualitatively. The researchers tended to share more links and retweet more than the average Twitter users in earlier research and there were clear disciplinary differences in how they used Twitter. Biochemists retweeted substantially more than researchers in the other disciplines. Researchers in digital humanities and cognitive science used Twitter more for conversations, while researchers in economics shared the most links. Finally, whilst researchers in biochemistry, astrophysics, cheminformatics and digital humanities seemed to use Twitter for scholarly communication, scientific use of Twitter in economics, sociology and history of science appeared to be marginal. \u00a9 2014, Akad\u00e9miai Kiad\u00f3, Budapest, Hungary.",
+      "num_chars": 1098,
+      "num_words": 170,
+      "unique_words": 86,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 46,
+        "#adjective": 19,
+        "#adverb": 4,
+        "#verb": 16,
+        "lexical_diversity": 85,
+        "lexical_density": 50.0
+      },
+      "sentiment_analysis": "Error in sentiment analysis"
+    },
+    "summarized_abstract": {
+      "summarized_text": " This paper investigates disciplinary differences in how researchers use Twitter . Tweets from selected researchers in ten disciplines were collected and analyzed both statistically and qualitatively . Biochemists retweeted substantially more than researchers in the other disciplines . Researchers in digital humanities and cognitive science used Twitter more for conversations, while researchers in economics shared the most links .",
+      "num_chars": 434,
+      "num_words": 61,
+      "unique_words": 45,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 16,
+        "#adjective": 7,
+        "#adverb": 3,
+        "#verb": 8,
+        "lexical_diversity": 34,
+        "lexical_density": 55.73770491803278
+      },
+      "sentiment_analysis": [{ "label": "NEU", "score": 0.6966686248779297 }]
+    },
+    "author_keywords": [
+      {
+        "keyword": "Altmetrics",
+        "dictionary": null,
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Disciplinary differences",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Scholarly communication",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Twitter",
+        "dictionary": {
+          "Noun": ["a series of chirps"],
+          "Verb": ["make high-pitched sounds, as of birds"]
+        },
+        "meaning_summary": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter."
+      },
+      {
+        "keyword": "Webometrics",
+        "dictionary": null,
+        "meaning_summary": "No meaning found"
+      }
+    ],
+    "automatic_keywords": [
+      {
+        "keyword": "microblogging site Twitter",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter."
+      },
+      {
+        "keyword": "paper investigates disciplinary",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter."
+      },
+      {
+        "keyword": "investigates disciplinary differences",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter."
+      },
+      {
+        "keyword": "Twitter",
+        "dictionary": {
+          "Noun": ["a series of chirps"],
+          "Verb": ["make high-pitched sounds, as of birds"]
+        },
+        "meaning_summary": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter."
+      },
+      {
+        "keyword": "paper investigates",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter."
+      },
+      {
+        "keyword": "microblogging site",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter."
+      },
+      {
+        "keyword": "site Twitter",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter."
+      },
+      {
+        "keyword": "researchers",
+        "dictionary": {
+          "Noun": ["a scientist who devotes himself to doing research"]
+        },
+        "meaning_summary": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter."
+      },
+      {
+        "keyword": "disciplinary differences",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter."
+      },
+      {
+        "keyword": "investigates disciplinary",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This paper investigates disciplinary differences in how researchers use the microblogging site Twitter."
+      }
+    ]
+  },
+  {
+    "doi": "10.1177/1461444812465137",
+    "title": "Towards a sociology of computational and algorithmic journalism",
+    "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84885769193&doi=10.1177%2f1461444812465137&partnerID=40&md5=a20bafd34c1504f04f5c8bdb72857f46",
+    "citations": 181,
+    "authors": ["Anderson C.W."],
+    "original_abstract": {
+      "text": "This article advances a sociological approach to computational journalism. By \"computational journalism\" the article refers to the increasingly ubiquitous forms of algorithmic, social scientific, and mathematical forms of newswork adopted by many 21st-century newsrooms and touted by many educational institutions as \"the future of news.\" By \"sociological approach,\" the article endorses a research model that brackets, at least temporarily, many of the current industry concerns with the practical usability of newsroom analysis. The bulk of the article outlines a series of six lenses through which such an approach to computational journalism might be carried out. Four of these lenses are drawn from Schudson's classic typology of the sociology of news-economic, political, cultural, and organizational approaches. In addition, the author adds Bordieuean field approaches and technological lenses to the mix. In each instance, the author discusses how particular approaches might need to be modified in order to study computational journalism in the digital age. \u00a9 The Author(s) 2012.",
+      "num_chars": 1088,
+      "num_words": 187,
+      "unique_words": 107,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 47,
+        "#adjective": 27,
+        "#adverb": 2,
+        "#verb": 13,
+        "lexical_diversity": 89,
+        "lexical_density": 47.593582887700535
+      },
+      "sentiment_analysis": "Error in sentiment analysis"
+    },
+    "summarized_abstract": {
+      "summarized_text": " This article advances a sociological approach to computational journalism . The bulk of the article outlines a series of six lenses through which such an approach might be carried out . Four of these lenses are drawn from Schudson's classic typology of the sociology of news-economic, political, cultural, and organizational approaches . In each instance, the author discusses how particular approaches might need to be modified .",
+      "num_chars": 431,
+      "num_words": 75,
+      "unique_words": 55,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 16,
+        "#adjective": 8,
+        "#adverb": 0,
+        "#verb": 7,
+        "lexical_diversity": 31,
+        "lexical_density": 41.333333333333336
+      },
+      "sentiment_analysis": [{ "label": "POS", "score": 0.5331986546516418 }]
+    },
+    "author_keywords": [
+      {
+        "keyword": "Computational journalism",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "culture",
+        "dictionary": {
+          "Noun": [
+            "a particular society at a particular time and place",
+            "the tastes in art and manners that are favored by a social group",
+            "all the knowledge and values shared by a society",
+            "(biology",
+            "such as gelatin or agar",
+            "a highly developed state of perfection; having a flawless or impeccable quality",
+            "the attitudes and behavior that are characteristic of a particular social group or organization",
+            "the raising of plants or animals"
+          ],
+          "Verb": ["grow in a special preparation"]
+        },
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "data",
+        "dictionary": {
+          "Noun": [
+            "a collection of facts from which conclusions may be drawn",
+            "an item of factual information derived from measurement or research"
+          ]
+        },
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "digital humanities",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "ethnography",
+        "dictionary": {
+          "Noun": [
+            "the branch of anthropology that provides scientific description of individual human societies"
+          ]
+        },
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "journalism",
+        "dictionary": {
+          "Noun": [
+            "newspapers and magazines collectively",
+            "the profession of reporting or photographing or editing news stories for one of the media"
+          ]
+        },
+        "meaning_summary": "This article advances a sociological approach to computational journalism."
+      },
+      {
+        "keyword": "news institutionalism",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "political economy",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      }
+    ],
+    "automatic_keywords": [
+      {
+        "keyword": "computational journalism",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article advances a sociological approach to computational journalism."
+      },
+      {
+        "keyword": "article advances",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article advances a sociological approach to computational journalism."
+      },
+      {
+        "keyword": "sociological approach",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article advances a sociological approach to computational journalism."
+      },
+      {
+        "keyword": "article",
+        "dictionary": {
+          "Noun": [
+            "nonfictional prose forming an independent part of a publication",
+            "one of a class of artifacts",
+            "a separate section of a legal document (as a statute or contract or will",
+            "(grammar"
+          ],
+          "Verb": ["bind by a contract; especially for a training period"]
+        },
+        "meaning_summary": "This article advances a sociological approach to computational journalism."
+      },
+      {
+        "keyword": "computational",
+        "dictionary": {
+          "Adjective": ["of or involving computation or computers"]
+        },
+        "meaning_summary": "This article advances a sociological approach to computational journalism."
+      },
+      {
+        "keyword": "journalism",
+        "dictionary": {
+          "Noun": [
+            "newspapers and magazines collectively",
+            "the profession of reporting or photographing or editing news stories for one of the media"
+          ]
+        },
+        "meaning_summary": "This article advances a sociological approach to computational journalism."
+      },
+      {
+        "keyword": "study computational journalism",
+        "dictionary": "No meaning found",
+        "meaning_summary": "In each instance, the author discusses how particular approaches might need to be modified in order to study computational journalism in the digital age."
+      },
+      {
+        "keyword": "increasingly ubiquitous forms",
+        "dictionary": "No meaning found",
+        "meaning_summary": "By \"computational journalism\" the article refers to the increasingly ubiquitous forms of algorithmic, social scientific, and mathematical forms of newswork adopted by many 21st-century newsrooms and touted by many educational institutions as \"the future of news.\""
+      },
+      {
+        "keyword": "approach to computational",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article advances a sociological approach to computational journalism."
+      },
+      {
+        "keyword": "approach",
+        "dictionary": {
+          "Noun": [
+            "ideas or actions intended to deal with a problem or situation",
+            "the act of drawing spatially closer to something",
+            "a way of entering or leaving",
+            "the final path followed by an aircraft as it is landing",
+            "the event of one object coming closer to another",
+            "a tentative suggestion designed to elicit the reactions of others",
+            "the temporal property of becoming nearer in time",
+            "a close approximation",
+            "a relatively short golf shot intended to put the ball onto the putting green"
+          ],
+          "Verb": [
+            "move towards",
+            "come near or verge on, resemble, come nearer in quality, or character",
+            "begin to deal with",
+            "come near in time",
+            "make advances to someone, usually with a proposal or suggestion"
+          ]
+        },
+        "meaning_summary": "This article advances a sociological approach to computational journalism."
+      }
+    ]
+  },
+  {
+    "doi": "10.1007/s10994-013-5413-0",
+    "title": "Interactive topic modeling",
+    "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84901496744&doi=10.1007%2fs10994-013-5413-0&partnerID=40&md5=5e9f7ce6d9daf635fb278501a9243d93",
+    "citations": 144,
+    "authors": ["Hu Y.", "Boyd-Graber J.", "Satinoff B.", "Smith A."],
+    "original_abstract": {
+      "text": "Topic models are a useful and ubiquitous tool for understanding large corpora. However, topic models are not perfect, and for many users in computational social science, digital humanities, and information studies - who are not machine learning experts - existing models and frameworks are often a \"take it or leave it\" proposition. This paper presents a mechanism for giving users a voice by encoding users' feedback to topic models as correlations between words into a topic model. This framework, interactive topic modeling (itm), allows untrained users to encode their feedback easily and iteratively into the topic models. Because latency in interactive systems is crucial, we develop more efficient inference algorithms for tree-based topic models. We validate the framework both with simulated and real users. \u00a9 2013 The Author(s).",
+      "num_chars": 838,
+      "num_words": 150,
+      "unique_words": 95,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 45,
+        "#adjective": 15,
+        "#adverb": 5,
+        "#verb": 13,
+        "lexical_diversity": 78,
+        "lexical_density": 52.0
+      },
+      "sentiment_analysis": "Error in sentiment analysis"
+    },
+    "summarized_abstract": {
+      "summarized_text": " Topic models are useful and ubiquitous tool for understanding large corpora, but topic models are not perfect . This paper presents a mechanism for giving users a voice by encoding users' feedback to topic models as correlations between words into a topic model . This framework, interactive topic modeling (itm), allows untrained users to encode their feedback easily and iteratively into the topic models .",
+      "num_chars": 409,
+      "num_words": 72,
+      "unique_words": 50,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 25,
+        "#adjective": 6,
+        "#adverb": 2,
+        "#verb": 6,
+        "lexical_diversity": 39,
+        "lexical_density": 54.166666666666664
+      },
+      "sentiment_analysis": [{ "label": "NEU", "score": 0.8072641491889954 }]
+    },
+    "author_keywords": [
+      {
+        "keyword": "Feedback",
+        "dictionary": {
+          "Noun": [
+            "the process in which part of the output of a system is returned to its input in order to regulate its further output",
+            "response to an inquiry or experiment"
+          ]
+        },
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Gibbs sampling",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Interactive topic modeling",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Latent Dirichlet Allocation",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Online learning",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Topic models",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Topic models are a useful and ubiquitous tool for understanding large corpora."
+      }
+    ],
+    "automatic_keywords": [
+      {
+        "keyword": "understanding large corpora",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Topic models are a useful and ubiquitous tool for understanding large corpora."
+      },
+      {
+        "keyword": "large corpora",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Topic models are a useful and ubiquitous tool for understanding large corpora."
+      },
+      {
+        "keyword": "Topic models",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Topic models are a useful and ubiquitous tool for understanding large corpora."
+      },
+      {
+        "keyword": "ubiquitous tool",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Topic models are a useful and ubiquitous tool for understanding large corpora."
+      },
+      {
+        "keyword": "tool for understanding",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Topic models are a useful and ubiquitous tool for understanding large corpora."
+      },
+      {
+        "keyword": "understanding large",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Topic models are a useful and ubiquitous tool for understanding large corpora."
+      },
+      {
+        "keyword": "Topic",
+        "dictionary": {
+          "Noun": [
+            "the subject matter of a conversation or discussion",
+            "some situation or event that is thought about"
+          ]
+        },
+        "meaning_summary": "Topic models are a useful and ubiquitous tool for understanding large corpora."
+      },
+      {
+        "keyword": "models",
+        "dictionary": {
+          "Noun": [
+            "a hypothetical description of a complex entity or process",
+            "a type of product",
+            "a person who poses for a photographer or painter or sculptor",
+            "representation of something (sometimes on a smaller scale",
+            "something to be imitated",
+            "someone worthy of imitation",
+            "a representative form or pattern",
+            "a woman who wears clothes to display fashions",
+            "the act of representing something (usually on a smaller scale"
+          ],
+          "Verb": [
+            "plan or create according to a model or models",
+            "form in clay, wax, etc",
+            "assume a posture as for artistic purposes",
+            "display (clothes",
+            "create a representation or model of",
+            "construct a model of"
+          ]
+        },
+        "meaning_summary": "Topic models are a useful and ubiquitous tool for understanding large corpora."
+      },
+      {
+        "keyword": "users",
+        "dictionary": {
+          "Noun": [
+            "a person who makes use of a thing; someone who uses or employs something",
+            "a person who uses something or someone selfishly or unethically",
+            "a person who takes drugs"
+          ]
+        },
+        "meaning_summary": "However, topic models are not perfect, and for many users in computational social science, digital humanities, and information studies - who are not machine learning experts - existing models and frameworks are often a \"take it or leave it\" proposition."
+      },
+      {
+        "keyword": "corpora",
+        "dictionary": {
+          "Noun": [
+            "capital as contrasted with the income derived from it",
+            "a collection of writings",
+            "the main part of an organ or other bodily structure"
+          ]
+        },
+        "meaning_summary": "Topic models are a useful and ubiquitous tool for understanding large corpora."
+      }
+    ]
+  },
+  {
+    "doi": "10.1108/00220411111109449",
+    "title": "Enabled backchannel: conference Twitter use by digital humanists",
+    "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-79952292203&doi=10.1108%2f00220411111109449&partnerID=40&md5=63335e5ffd7293ab3b3c3a465d083c7a",
+    "citations": 144,
+    "authors": ["Ross C.", "Terras M.", "Warwick C.", "Welsh A."],
+    "original_abstract": {
+      "text": "Purpose \u2013 To date, few studies have been undertaken to make explicit how microblogging technologies are used by and can benefit scholars. This paper aims to investigate the use of Twitter by an academic community in various conference settings, and to pose the following questions: Does the use of a Twitter\ue4f8enabled backchannel enhance the conference experience, collaboration and the co\ue4f8construction of knowledge? and How is microblogging used within academic conferences, and can one articulate the benefits it may bring to a discipline? Design/methodology/approach This paper considers the use of Twitter as a digital backchannel by the Digital Humanities (DH) community, taking as its focus postings to Twitter during three different international 2009 conferences. The resulting archive of 4,574 \u201cTweets\u201d was analysed using various quantitative and qualitative methods, including a qualitative categorisation of Twitter posts by open coded analysis, a quantitative examination of user conventions, and text analysis tools. Prominent Tweeters were identified and a small qualitative survey was undertaken to ascertain individuals' attitudes towards a Twitter\ue4f8enabled backchannel. Findings \u2013 Conference hashtagged Twitter activity does not constitute a single distributed conversation, but rather multiple monologues with a few intermittent, discontinuous, loosely joined dialogues between users. The digital backchannel constitutes a multidirectional complex space in which the users make notes, share resources, hold discussions and ask questions as well as establishing a clear individual online presence. The use of Twitter as a conference platform enables the community to expand communication and participation in events amongst its members. The analysis revealed the close\ue4f8knit nature of the DH researcher community, which may be somewhat intimidating for those new to the field or conference. Practical implications This study has indicated that, given that Twitter is becoming increasingly important for academic communities, new, dedicated methodologies for the analysis and understanding of Tweet\ue4f8based corpora are necessary. Routinely used textual analysis tools cannot be applied to corpora of Tweets in a straightforward manner, due to the creative and fragmentary nature of language used within microblogging. In this paper, a method has been suggested to categorise Tweets using open coded analysis to facilitate understanding of Tweet\ue4f8based corpora, which could be adopted elsewhere. Originality/value \u2013 This paper is the first known exhaustive study that concentrates on how microblogging technologies such as Twitter are used by and can benefit scholars. This data set both provides a valuable insight into the prevalence of a variety of Twitter practices within the constraints of a conference setting, and highlights the need for methodologies to be developed to analyse social media streams such as Twitter feeds. It also provides a bibliography of other research into microblogging. \u00a9 2011, Emerald Group Publishing Limited",
+      "num_chars": 3049,
+      "num_words": 488,
+      "unique_words": 253,
+      "points": { "interrogation": 2, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 116,
+        "#adjective": 46,
+        "#adverb": 10,
+        "#verb": 60,
+        "lexical_diversity": 232,
+        "lexical_density": 47.540983606557376
+      },
+      "sentiment_analysis": "Error in sentiment analysis"
+    },
+    "summarized_abstract": {
+      "summarized_text": " Few studies have been undertaken to make explicit how microblogging technologies are used by and can benefit scholars . This paper considers the use of Twitter as a digital backchannel by the Digital Humanities (DH) community . The analysis revealed the close-knit nature of the DH researcher community, which may be somewhat intimidating for those new to the field or conference .",
+      "num_chars": 382,
+      "num_words": 68,
+      "unique_words": 57,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 14,
+        "#adjective": 5,
+        "#adverb": 2,
+        "#verb": 7,
+        "lexical_diversity": 28,
+        "lexical_density": 41.17647058823529
+      },
+      "sentiment_analysis": [{ "label": "NEU", "score": 0.9366710782051086 }]
+    },
+    "author_keywords": [
+      {
+        "keyword": "Conferences",
+        "dictionary": {
+          "Noun": [
+            "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda",
+            "an association of sports teams that organizes matches for its members",
+            "a discussion among participants who have an agreed (serious"
+          ]
+        },
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Digital communication systems",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Social networks",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "User studies",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      }
+    ],
+    "automatic_keywords": [
+      {
+        "keyword": "Twitter",
+        "dictionary": {
+          "Noun": ["a series of chirps"],
+          "Verb": ["make high-pitched sounds, as of birds"]
+        },
+        "meaning_summary": "This paper aims to investigate the use of Twitter by an academic community in various conference settings, and to pose the following questions: Does the use of a Twitter\ue4f8enabled backchannel enhance the conference experience, collaboration and the co\ue4f8construction of knowledge?"
+      },
+      {
+        "keyword": "conference",
+        "dictionary": {
+          "Noun": [
+            "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda",
+            "an association of sports teams that organizes matches for its members",
+            "a discussion among participants who have an agreed (serious"
+          ]
+        },
+        "meaning_summary": "This paper aims to investigate the use of Twitter by an academic community in various conference settings, and to pose the following questions: Does the use of a Twitter\ue4f8enabled backchannel enhance the conference experience, collaboration and the co\ue4f8construction of knowledge?"
+      },
+      {
+        "keyword": "Conference hashtagged Twitter",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Findings \u2013 Conference hashtagged Twitter activity does not constitute a single distributed conversation, but rather multiple monologues with a few intermittent, discontinuous, loosely joined dialogues between users."
+      },
+      {
+        "keyword": "analysis",
+        "dictionary": {
+          "Noun": [
+            "an investigation of the component parts of a whole and their relations in making up the whole",
+            "the abstract separation of a whole into its constituent parts in order to study the parts and their relations",
+            "a form of literary criticism in which the structure of a piece of writing is analyzed",
+            "the use of closed-class words instead of inflections: e.g., `the father of the bride' instead of `the bride's father'",
+            "a branch of mathematics involving calculus and the theory of limits; sequences and series and integration and differentiation",
+            "a set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of Sigmund Freud"
+          ]
+        },
+        "meaning_summary": "The resulting archive of 4,574 \u201cTweets\u201d was analysed using various quantitative and qualitative methods, including a qualitative categorisation of Twitter posts by open coded analysis, a quantitative examination of user conventions, and text analysis tools."
+      },
+      {
+        "keyword": "digital backchannel",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Design/methodology/approach This paper considers the use of Twitter as a digital backchannel by the Digital Humanities (DH) community, taking as its focus postings to Twitter during three different international 2009 conferences."
+      },
+      {
+        "keyword": "benefit scholars",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Purpose \u2013 To date, few studies have been undertaken to make explicit how microblogging technologies are used by and can benefit scholars."
+      },
+      {
+        "keyword": "Tweets",
+        "dictionary": {
+          "Noun": ["a weak chirping sound as of a small bird"],
+          "Verb": [
+            "make a weak, chirping sound",
+            "squeeze tightly between the fingers"
+          ]
+        },
+        "meaning_summary": "The resulting archive of 4,574 \u201cTweets\u201d was analysed using various quantitative and qualitative methods, including a qualitative categorisation of Twitter posts by open coded analysis, a quantitative examination of user conventions, and text analysis tools."
+      },
+      {
+        "keyword": "backchannel",
+        "dictionary": null,
+        "meaning_summary": "This paper aims to investigate the use of Twitter by an academic community in various conference settings, and to pose the following questions: Does the use of a Twitter\ue4f8enabled backchannel enhance the conference experience, collaboration and the co\ue4f8construction of knowledge?"
+      },
+      {
+        "keyword": "microblogging",
+        "dictionary": null,
+        "meaning_summary": "Purpose \u2013 To date, few studies have been undertaken to make explicit how microblogging technologies are used by and can benefit scholars."
+      },
+      {
+        "keyword": "enabled backchannel",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This paper aims to investigate the use of Twitter by an academic community in various conference settings, and to pose the following questions: Does the use of a Twitter\ue4f8enabled backchannel enhance the conference experience, collaboration and the co\ue4f8construction of knowledge?"
+      }
+    ]
+  },
+  {
+    "doi": "10.1108/AJIM-09-2013-0094",
+    "title": "Programmed method: Developing a toolset for capturing and analyzing tweets",
+    "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84928249663&doi=10.1108%2fAJIM-09-2013-0094&partnerID=40&md5=503326daa805093e265cece8d666ac3d",
+    "citations": 143,
+    "authors": ["Borra E.", "Rieder B."],
+    "original_abstract": {
+      "text": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data. Instead of just presenting a technical paper detailing the system, however, the authors argue that the type of data used for, as well as the methods encoded in, computational systems have epistemological repercussions for research. The authors thus aim at situating the development of the toolset in relation to methodological debates in the social sciences and humanities. Design/methodology/approach\u2013The authors review the possibilities and limitations of existing approaches to capture and analyze Twitter data in order to address the various ways in which computational systems frame research. The authors then introduce the open-source toolset and put forward an approach that embraces methodological diversity and epistemological plurality. Findings\u2013The authors find that design decisions and more general methodological reasoning can and should go hand in hand when building tools for computational social science or digital humanities. Practical implications\u2013Besides methodological transparency, the software provides robust and reproducible data capture and analysis, and interlinks with existing analytical software. Epistemic plurality is emphasized by taking into account how Twitter structures information, by allowing for a number of different sampling techniques, by enabling a variety of analytical approaches or paradigms, and by facilitating work at the micro, meso, and macro levels. Originality/value\u2013The paper opens up critical debate by connecting tool design to fundamental interrogations of methodology and its repercussions for the production of knowledge. The design of the software is inspired by exchanges and debates with scholars from a variety of disciplines and the attempt to propose a flexible and extensible tool that accommodates a wide array of methodological approaches is directly motivated by the desire to keep computational work open for various epistemic sensibilities. \u00a9 Emerald Group Publishing Limited.",
+      "num_chars": 2115,
+      "num_words": 338,
+      "unique_words": 176,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 97,
+        "#adjective": 36,
+        "#adverb": 8,
+        "#verb": 35,
+        "lexical_diversity": 176,
+        "lexical_density": 52.071005917159766
+      },
+      "sentiment_analysis": "Error in sentiment analysis"
+    },
+    "summarized_abstract": {
+      "summarized_text": " Digital Methods Initiative Twitter Capture and Analysis Toolset is a toolset for capturing and analyzing Twitter data . The authors argue that the type of data used for, as well as the methods encoded in, computational systems have epistemological repercussions for research . They aim at situating the development of the toolset in relation to methodological debates in the social sciences and humanities .",
+      "num_chars": 408,
+      "num_words": 67,
+      "unique_words": 49,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 15,
+        "#adjective": 4,
+        "#adverb": 2,
+        "#verb": 8,
+        "lexical_diversity": 29,
+        "lexical_density": 43.28358208955223
+      },
+      "sentiment_analysis": [{ "label": "NEU", "score": 0.8755882978439331 }]
+    },
+    "author_keywords": [
+      {
+        "keyword": "Analysis",
+        "dictionary": {
+          "Noun": [
+            "an investigation of the component parts of a whole and their relations in making up the whole",
+            "the abstract separation of a whole into its constituent parts in order to study the parts and their relations",
+            "a form of literary criticism in which the structure of a piece of writing is analyzed",
+            "the use of closed-class words instead of inflections: e.g., `the father of the bride' instead of `the bride's father'",
+            "a branch of mathematics involving calculus and the theory of limits; sequences and series and integration and differentiation",
+            "a set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of Sigmund Freud"
+          ]
+        },
+        "meaning_summary": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data."
+      },
+      {
+        "keyword": "Computational social science",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Data collection",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Digital humanities",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Digital methods",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Twitter",
+        "dictionary": {
+          "Noun": ["a series of chirps"],
+          "Verb": ["make high-pitched sounds, as of birds"]
+        },
+        "meaning_summary": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data."
+      }
+    ],
+    "automatic_keywords": [
+      {
+        "keyword": "Methods Initiative Twitter",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data."
+      },
+      {
+        "keyword": "Digital Methods Initiative",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data."
+      },
+      {
+        "keyword": "Initiative Twitter Capture",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data."
+      },
+      {
+        "keyword": "Methods Initiative",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data."
+      },
+      {
+        "keyword": "analyzing Twitter data",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data."
+      },
+      {
+        "keyword": "Initiative Twitter",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data."
+      },
+      {
+        "keyword": "introduce Digital Methods",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data."
+      },
+      {
+        "keyword": "Twitter data",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data."
+      },
+      {
+        "keyword": "capturing and analyzing",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data."
+      },
+      {
+        "keyword": "analyzing Twitter",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Purpose\u2013The purpose of this paper is to introduce Digital Methods Initiative Twitter Capture and Analysis Toolset, a toolset for capturing and analyzing Twitter data."
+      }
+    ]
+  },
+  {
+    "doi": "10.32614/rj-2016-007",
+    "title": "Stylometry with R: A package for computational text analysis",
+    "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85010281284&doi=10.32614%2frj-2016-007&partnerID=40&md5=7bc156d9c817b635cf13a9dd554f5ba3",
+    "citations": 134,
+    "authors": ["Eder M.", "Rybicki J.", "Kestemont M."],
+    "original_abstract": {
+      "text": "This software paper describes 'Stylometry with R' (stylo), a flexible R package for the highlevel analysis of writing style in stylometry. Stylometry (computational stylistics) is concerned with the quantitative study of writing style, e.g. authorship verification, an application which has considerable potential in forensic contexts, as well as historical research. In this paper we introduce the possibilities of stylo for computational text analysis, via a number of dummy case studies from English and French literature. We demonstrate how the package is particularly useful in the exploratory statistical analysis of texts, e.g. with respect to authorial writing style. Because stylo provides an attractive graphical user interface for high-level exploratory analyses, it is especially suited for an audience of novices, without programming skills (e.g. from the Digital Humanities). More experienced users can benefit from our implementation of a series of standard pipelines for text processing, as well as a number of similarity metrics.",
+      "num_chars": 1046,
+      "num_words": 176,
+      "unique_words": 106,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 49,
+        "#adjective": 18,
+        "#adverb": 10,
+        "#verb": 9,
+        "lexical_diversity": 86,
+        "lexical_density": 48.86363636363637
+      },
+      "sentiment_analysis": "Error in sentiment analysis"
+    },
+    "summarized_abstract": {
+      "summarized_text": " This software paper describes 'Stylometry with R' (stylo), a flexible R package for the highlevel analysis of writing style in stylometry . Stylometry (computational stylistics) is concerned with the quantitative study of . writing style, e.g. authorship verification . This application has considerable potential in forensic contexts, as well as historical research .",
+      "num_chars": 369,
+      "num_words": 63,
+      "unique_words": 45,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 18,
+        "#adjective": 6,
+        "#adverb": 3,
+        "#verb": 4,
+        "lexical_diversity": 31,
+        "lexical_density": 49.2063492063492
+      },
+      "sentiment_analysis": [{ "label": "POS", "score": 0.5035392045974731 }]
+    },
+    "author_keywords": [],
+    "automatic_keywords": [
+      {
+        "keyword": "software paper describes",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This software paper describes 'Stylometry with R' (stylo), a flexible R package for the highlevel analysis of writing style in stylometry."
+      },
+      {
+        "keyword": "writing style",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This software paper describes 'Stylometry with R' (stylo), a flexible R package for the highlevel analysis of writing style in stylometry."
+      },
+      {
+        "keyword": "paper describes",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This software paper describes 'Stylometry with R' (stylo), a flexible R package for the highlevel analysis of writing style in stylometry."
+      },
+      {
+        "keyword": "software paper",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This software paper describes 'Stylometry with R' (stylo), a flexible R package for the highlevel analysis of writing style in stylometry."
+      },
+      {
+        "keyword": "authorial writing style",
+        "dictionary": "No meaning found",
+        "meaning_summary": "with respect to authorial writing style."
+      },
+      {
+        "keyword": "Stylometry",
+        "dictionary": null,
+        "meaning_summary": "This software paper describes 'Stylometry with R' (stylo), a flexible R package for the highlevel analysis of writing style in stylometry."
+      },
+      {
+        "keyword": "highlevel analysis",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This software paper describes 'Stylometry with R' (stylo), a flexible R package for the highlevel analysis of writing style in stylometry."
+      },
+      {
+        "keyword": "English and French",
+        "dictionary": "No meaning found",
+        "meaning_summary": "In this paper we introduce the possibilities of stylo for computational text analysis, via a number of dummy case studies from English and French literature."
+      },
+      {
+        "keyword": "computational text analysis",
+        "dictionary": "No meaning found",
+        "meaning_summary": "In this paper we introduce the possibilities of stylo for computational text analysis, via a number of dummy case studies from English and French literature."
+      },
+      {
+        "keyword": "writing",
+        "dictionary": {
+          "Noun": [
+            "the act of creating written works",
+            "the work of a writer; anything expressed in letters of the alphabet (especially when considered from the point of view of style and effect",
+            "(usually plural",
+            "letters or symbols that are written or imprinted on a surface to represent the sounds or words of a language",
+            "the activity of putting something in written form"
+          ],
+          "Verb": [
+            "produce a literary work",
+            "communicate or express by writing",
+            "communicate (with",
+            "write music",
+            "mark or trace on a surface",
+            "record data on a computer",
+            "write or name the letters that comprise the conventionally accepted form of (a word or part of a word",
+            "create code, write a computer program"
+          ]
+        },
+        "meaning_summary": "This software paper describes 'Stylometry with R' (stylo), a flexible R package for the highlevel analysis of writing style in stylometry."
+      }
+    ]
+  },
+  {
+    "doi": "10.1080/01916599.2012.714635",
+    "title": "What's the Big Idea? Intellectual History and the Longue Dur\u00e9e",
+    "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84868280635&doi=10.1080%2f01916599.2012.714635&partnerID=40&md5=3b5e264dcffa6a16aad5f2d68dfad625",
+    "citations": 109,
+    "authors": ["Armitage D."],
+    "original_abstract": {
+      "text": "Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect. There are even signs that intellectual historians are returning to the longue dur\u00e9e. What are the reasons for this revival of long-range intellectual history? And how might it be rendered methodologically robust as well as historically compelling? This article proposes a model of transtemporal history, proceeding via serial contextualism to create a history in ideas spanning centuries, even millennia: key examples come from work in progress on ideas of civil war from ancient Rome to the present. The article concludes with brief reflections on the potential impact of the digital humanities on the practice of long-range intellectual history. \u00a9 2012 Copyright Taylor and Francis Group, LLC.",
+      "num_chars": 814,
+      "num_words": 139,
+      "unique_words": 96,
+      "points": { "interrogation": 2, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 33,
+        "#adjective": 16,
+        "#adverb": 8,
+        "#verb": 11,
+        "lexical_diversity": 68,
+        "lexical_density": 48.92086330935252
+      },
+      "sentiment_analysis": "Error in sentiment analysis"
+    },
+    "summarized_abstract": {
+      "summarized_text": " Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect . This article proposes a model of transtemporal history, proceeding via serial contextualism to create a history in ideas spanning centuries, even millennia . Key examples come from work in progress on ideas of civil war from ancient Rome to the present .",
+      "num_chars": 375,
+      "num_words": 64,
+      "unique_words": 50,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 18,
+        "#adjective": 6,
+        "#adverb": 2,
+        "#verb": 7,
+        "lexical_diversity": 33,
+        "lexical_density": 51.5625
+      },
+      "sentiment_analysis": [{ "label": "NEU", "score": 0.9626778364181519 }]
+    },
+    "author_keywords": [
+      {
+        "keyword": "Cambridge School",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "civil war",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This article proposes a model of transtemporal history, proceeding via serial contextualism to create a history in ideas spanning centuries, even millennia: key examples come from work in progress on ideas of civil war from ancient Rome to the present."
+      },
+      {
+        "keyword": "conceptual history",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "digital humanities",
+        "dictionary": "No meaning found",
+        "meaning_summary": "The article concludes with brief reflections on the potential impact of the digital humanities on the practice of long-range intellectual history."
+      },
+      {
+        "keyword": "longue dur\u00e9e",
+        "dictionary": "No meaning found",
+        "meaning_summary": "There are even signs that intellectual historians are returning to the longue dur\u00e9e."
+      }
+    ],
+    "automatic_keywords": [
+      {
+        "keyword": "beginning to return",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect."
+      },
+      {
+        "keyword": "return to temporally",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect."
+      },
+      {
+        "keyword": "temporally expansive studies",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect."
+      },
+      {
+        "keyword": "aversion and neglect",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect."
+      },
+      {
+        "keyword": "kinds are beginning",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect."
+      },
+      {
+        "keyword": "temporally expansive",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect."
+      },
+      {
+        "keyword": "expansive studies",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect."
+      },
+      {
+        "keyword": "studies after decades",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect."
+      },
+      {
+        "keyword": "decades of aversion",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Historians of all kinds are beginning to return to temporally expansive studies after decades of aversion and neglect."
+      },
+      {
+        "keyword": "long-range intellectual history",
+        "dictionary": "No meaning found",
+        "meaning_summary": "What are the reasons for this revival of long-range intellectual history?"
+      }
+    ]
+  },
+  {
+    "doi": "10.1111/j.1475-5661.2010.00405.x",
+    "title": "Mapping the English Lake District: A literary GIS",
+    "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-78649784112&doi=10.1111%2fj.1475-5661.2010.00405.x&partnerID=40&md5=a49abb3528b15ede2dd5067792dd83e5",
+    "citations": 93,
+    "authors": ["Cooper D.", "Gregory I.N."],
+    "original_abstract": {
+      "text": "To date, much of the work that uses Geographical Information Systems (GIS) to study human geographies applies a social science paradigm to quantitative data. There is a growing recognition of the need, however, to test whether GIS can be used to map out the qualitative 'data' provided by the articulation of subjective spatial experiences. This paper expands the conceptual possibilities opened up by the use of GIS technology through an exploration of the theoretical potentiality of literary GIS. Drawing on work carried out as part of an interdisciplinary project, 'Mapping the Lakes', the paper focuses on the ways in which GIS can be used to explore the spatial relationships between two textual accounts of tours of the English Lake District: the proto-Picturesque journey undertaken by the poet, Thomas Gray, in the autumn of 1769; and Samuel Taylor Coleridge's self-consciously post-Picturesque 'circumcursion' of August 1802. Alongside this text-specific focus, the paper also draws on recent spatial literary criticism to reflect, more generally, on the critical possibilities and problems associated with the digital mapping of space and place in literature. Ultimately, the paper seeks to open up methodological and critical space for the ongoing development of literary GIS. \u00a9 2010 The Authors. Transactions of the Institute of British Geographers \u00a9 2010 Royal Geographical Society (with the Institute of British Geographers).",
+      "num_chars": 1440,
+      "num_words": 258,
+      "unique_words": 147,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 50,
+        "#adjective": 25,
+        "#adverb": 6,
+        "#verb": 23,
+        "lexical_diversity": 104,
+        "lexical_density": 40.310077519379846
+      },
+      "sentiment_analysis": "Error in sentiment analysis"
+    },
+    "summarized_abstract": {
+      "summarized_text": " This paper expands the conceptual possibilities opened up by the use of GIS technology through an exploration of the theoretical potentiality of literary GIS . Drawing on work carried out as part of an interdisciplinary project, 'Mapping the Lakes', the paper focuses on the ways in which GIS can be used to explore the spatial relationships between two textual accounts of tours of the English Lake District .",
+      "num_chars": 411,
+      "num_words": 73,
+      "unique_words": 53,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 18,
+        "#adjective": 5,
+        "#adverb": 0,
+        "#verb": 8,
+        "lexical_diversity": 31,
+        "lexical_density": 42.465753424657535
+      },
+      "sentiment_analysis": [{ "label": "POS", "score": 0.5308746695518494 }]
+    },
+    "author_keywords": [
+      {
+        "keyword": "Digital humanities",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "English Lake District",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Drawing on work carried out as part of an interdisciplinary project, 'Mapping the Lakes', the paper focuses on the ways in which GIS can be used to explore the spatial relationships between two textual accounts of tours of the English Lake District: the proto-Picturesque journey undertaken by the poet, Thomas Gray, in the autumn of 1769; and Samuel Taylor Coleridge's self-consciously post-Picturesque 'circumcursion' of August 1802."
+      },
+      {
+        "keyword": "GIS",
+        "dictionary": null,
+        "meaning_summary": "To date, much of the work that uses Geographical Information Systems (GIS) to study human geographies applies a social science paradigm to quantitative data."
+      },
+      {
+        "keyword": "Literary cartography",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Literary studies",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "Spatial theory",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      }
+    ],
+    "automatic_keywords": [
+      {
+        "keyword": "accounts of tours",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Drawing on work carried out as part of an interdisciplinary project, 'Mapping the Lakes', the paper focuses on the ways in which GIS can be used to explore the spatial relationships between two textual accounts of tours of the English Lake District: the proto-Picturesque journey undertaken by the poet, Thomas Gray, in the autumn of 1769; and Samuel Taylor Coleridge's self-consciously post-Picturesque 'circumcursion' of August 1802."
+      },
+      {
+        "keyword": "Geographical Information Systems",
+        "dictionary": "No meaning found",
+        "meaning_summary": "To date, much of the work that uses Geographical Information Systems (GIS) to study human geographies applies a social science paradigm to quantitative data."
+      },
+      {
+        "keyword": "Information Systems",
+        "dictionary": "No meaning found",
+        "meaning_summary": "To date, much of the work that uses Geographical Information Systems (GIS) to study human geographies applies a social science paradigm to quantitative data."
+      },
+      {
+        "keyword": "study human geographies",
+        "dictionary": "No meaning found",
+        "meaning_summary": "To date, much of the work that uses Geographical Information Systems (GIS) to study human geographies applies a social science paradigm to quantitative data."
+      },
+      {
+        "keyword": "human geographies applies",
+        "dictionary": "No meaning found",
+        "meaning_summary": "To date, much of the work that uses Geographical Information Systems (GIS) to study human geographies applies a social science paradigm to quantitative data."
+      },
+      {
+        "keyword": "social science paradigm",
+        "dictionary": "No meaning found",
+        "meaning_summary": "To date, much of the work that uses Geographical Information Systems (GIS) to study human geographies applies a social science paradigm to quantitative data."
+      },
+      {
+        "keyword": "Geographical Information",
+        "dictionary": "No meaning found",
+        "meaning_summary": "To date, much of the work that uses Geographical Information Systems (GIS) to study human geographies applies a social science paradigm to quantitative data."
+      },
+      {
+        "keyword": "GIS",
+        "dictionary": null,
+        "meaning_summary": "To date, much of the work that uses Geographical Information Systems (GIS) to study human geographies applies a social science paradigm to quantitative data."
+      },
+      {
+        "keyword": "literary GIS",
+        "dictionary": "No meaning found",
+        "meaning_summary": "This paper expands the conceptual possibilities opened up by the use of GIS technology through an exploration of the theoretical potentiality of literary GIS."
+      },
+      {
+        "keyword": "English Lake District",
+        "dictionary": "No meaning found",
+        "meaning_summary": "Drawing on work carried out as part of an interdisciplinary project, 'Mapping the Lakes', the paper focuses on the ways in which GIS can be used to explore the spatial relationships between two textual accounts of tours of the English Lake District: the proto-Picturesque journey undertaken by the poet, Thomas Gray, in the autumn of 1769; and Samuel Taylor Coleridge's self-consciously post-Picturesque 'circumcursion' of August 1802."
+      }
+    ]
+  },
+  {
+    "doi": "10.1177/0309132512444063",
+    "title": "Crossing the qualitative- quantitative divide II: Inventive approaches to big data, mobile methods, and rhythmanalysis",
+    "link": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84875024343&doi=10.1177%2f0309132512444063&partnerID=40&md5=515741df9a331ef610192a73dfcc8080",
+    "citations": 89,
+    "authors": ["DeLyser D.", "Sui D."],
+    "original_abstract": {
+      "text": "In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time. We again focus on scholarship crossing multiple geographical divides, those of neo/paleo geography, qualitative/quantitative methods, and physical/human geography. We do so now by concentrating on three areas: the emerging digital humanities and the rise of big data, mobile methods, and rhythmanalysis. With this broad approach we seek also to encourage consilience, synergy, and a positive embrace of diversity in geographical scholarship. \u00a9 The Author(s) 2012.",
+      "num_chars": 616,
+      "num_words": 109,
+      "unique_words": 72,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 26,
+        "#adjective": 16,
+        "#adverb": 4,
+        "#verb": 8,
+        "lexical_diversity": 54,
+        "lexical_density": 49.54128440366973
+      },
+      "sentiment_analysis": "Error in sentiment analysis"
+    },
+    "summarized_abstract": {
+      "summarized_text": " In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time . We again focus on scholarship crossing multiple geographical divides, those of neo/paleo geography, qualitative/quantitative methods, and physical/human geography . With this broad approach we seek also to encourage consilience, synergy, and a positive embrace of diversity in geographical scholarship .",
+      "num_chars": 458,
+      "num_words": 77,
+      "unique_words": 53,
+      "points": { "interrogation": 0, "exclamation": 0 },
+      "word_analysis": {
+        "#noun": 19,
+        "#adjective": 13,
+        "#adverb": 2,
+        "#verb": 5,
+        "lexical_diversity": 39,
+        "lexical_density": 50.649350649350644
+      },
+      "sentiment_analysis": [{ "label": "POS", "score": 0.7120230793952942 }]
+    },
+    "author_keywords": [
+      {
+        "keyword": "big data",
+        "dictionary": "No meaning found",
+        "meaning_summary": "We do so now by concentrating on three areas: the emerging digital humanities and the rise of big data, mobile methods, and rhythmanalysis."
+      },
+      {
+        "keyword": "digital humanities",
+        "dictionary": "No meaning found",
+        "meaning_summary": "We do so now by concentrating on three areas: the emerging digital humanities and the rise of big data, mobile methods, and rhythmanalysis."
+      },
+      {
+        "keyword": "inventive methods",
+        "dictionary": "No meaning found",
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "methodology",
+        "dictionary": {
+          "Noun": [
+            "the branch of philosophy that analyzes the principles and procedures of inquiry in a particular discipline",
+            "the system of methods followed in a particular discipline"
+          ]
+        },
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "mobile methods",
+        "dictionary": "No meaning found",
+        "meaning_summary": "We do so now by concentrating on three areas: the emerging digital humanities and the rise of big data, mobile methods, and rhythmanalysis."
+      },
+      {
+        "keyword": "mobilities",
+        "dictionary": { "Noun": ["the quality of moving freely"] },
+        "meaning_summary": "No meaning found"
+      },
+      {
+        "keyword": "qualitative",
+        "dictionary": {
+          "Adjective": [
+            "involving distinctions based on qualities",
+            "relating to or involving comparisons based on qualities"
+          ]
+        },
+        "meaning_summary": "In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time."
+      },
+      {
+        "keyword": "quantitative",
+        "dictionary": {
+          "Adjective": [
+            "expressible as a quantity or relating to or susceptible of measurement",
+            "relating to the measurement of quantity",
+            "(of verse"
+          ]
+        },
+        "meaning_summary": "In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time."
+      }
+    ],
+    "automatic_keywords": [
+      {
+        "keyword": "quantitative methods",
+        "dictionary": "No meaning found",
+        "meaning_summary": "In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time."
+      },
+      {
+        "keyword": "methods",
+        "dictionary": {
+          "Noun": [
+            "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps",
+            "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed"
+          ]
+        },
+        "meaning_summary": "In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time."
+      },
+      {
+        "keyword": "paleo geography",
+        "dictionary": "No meaning found",
+        "meaning_summary": "We again focus on scholarship crossing multiple geographical divides, those of neo/paleo geography, qualitative/quantitative methods, and physical/human geography."
+      },
+      {
+        "keyword": "human geography",
+        "dictionary": "No meaning found",
+        "meaning_summary": "We again focus on scholarship crossing multiple geographical divides, those of neo/paleo geography, qualitative/quantitative methods, and physical/human geography."
+      },
+      {
+        "keyword": "reports on qualitative",
+        "dictionary": "No meaning found",
+        "meaning_summary": "In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time."
+      },
+      {
+        "keyword": "multiple geographical divides",
+        "dictionary": "No meaning found",
+        "meaning_summary": "We again focus on scholarship crossing multiple geographical divides, those of neo/paleo geography, qualitative/quantitative methods, and physical/human geography."
+      },
+      {
+        "keyword": "quantitative",
+        "dictionary": {
+          "Adjective": [
+            "expressible as a quantity or relating to or susceptible of measurement",
+            "relating to the measurement of quantity",
+            "(of verse"
+          ]
+        },
+        "meaning_summary": "In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time."
+      },
+      {
+        "keyword": "time",
+        "dictionary": {
+          "Noun": [
+            "an instance or single occasion for some event",
+            "a period of time considered as a resource under your control and sufficient to accomplish something",
+            "an indefinite period (usually marked by specific attributes or activities",
+            "a suitable moment",
+            "the continuum of experience in which events pass from the future through the present to the past",
+            "a person's experience on a particular occasion",
+            "a reading of a point in time as given by a clock",
+            "the fourth coordinate that is required (along with three spatial dimensions",
+            "rhythm as given by division into parts of equal duration",
+            "the period of time a prisoner is imprisoned"
+          ],
+          "Verb": [
+            "measure the time or duration of an event or action or the person who performs an action in a certain period of time",
+            "assign a time for an activity or event",
+            "set the speed, duration, or execution of",
+            "regulate or set the time of",
+            "adjust so that a force is applied and an action occurs at the desired time"
+          ]
+        },
+        "meaning_summary": "In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time."
+      },
+      {
+        "keyword": "qualitative",
+        "dictionary": {
+          "Adjective": [
+            "involving distinctions based on qualities",
+            "relating to or involving comparisons based on qualities"
+          ]
+        },
+        "meaning_summary": "In this second of three reports on qualitative and quantitative methods we highlight novel methods with particular purchase on the problems of our time."
+      },
+      {
+        "keyword": "geography",
+        "dictionary": {
+          "Noun": [
+            "study of the earth's surface; includes people's responses to topography and climate and soil and vegetation"
+          ]
+        },
+        "meaning_summary": "We again focus on scholarship crossing multiple geographical divides, those of neo/paleo geography, qualitative/quantitative methods, and physical/human geography."
+      }
+    ]
+  }
+]

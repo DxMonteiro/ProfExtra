@@ -1,4 +1,10 @@
-import __init__
+from gensim.summarization import keywords
+from keybert import KeyBERT
+from rake_nltk import Rake
+import yake
+import nltk
+import nltk.data
+import pke
 
 class Keyworder():
 
@@ -7,26 +13,26 @@ class Keyworder():
 
     def get_keywords(self, text):
         if self.model == 'KEYBERT':
-            head = {'KEYBERT': keybert_extractor(text)}
+            result = self.keybert_extractor(text)
         elif self.model == 'TOPIC':
-            head = {'TOPIC RANK': topic_rank_extractor(text)}
+            result = self.topic_rank_extractor(text)
         elif self.model == 'MULTIPARTITE':
-            head = {'MULTIPARTITE RANK': multipartite_rank_extractor(text)}
+            result = self.multipartite_rank_extractor(text)
         elif self.model == 'SINGLE':
-            head = {'SINGLE RANK': single_rank_extractor(text)}
+            result = self.single_rank_extractor(text)
         elif self.model == 'YAKE':
-            head = {'YAKE': yake_extractor(text)}
+            result = self.yake_extractor(text)
         elif self.model == 'RAKE':
-            head = {'RAKE': rake_extractor(text)}
+            result = self.rake_extractor(text)
         elif self.model == 'POSITION':
-            head = {'POSITION RANK': position_rank_extractor(text)}
+            result = self.position_rank_extractor(text)
         else:
-            head = {}
+            result = []
 
-        return head
+        return result
 
     # 1. RAKE
-    def rake_extractor(text):
+    def rake_extractor(self, text):
         """
         Uses Rake to extract the top 5 keywords from a text
         Arguments: text (str)
@@ -37,7 +43,7 @@ class Keyworder():
         return r.get_ranked_phrases()[:10]
 
     # 2. YAKE
-    def yake_extractor(text):
+    def yake_extractor(self, text):
         """
         Uses YAKE to extract the top 5 keywords from a text
         Arguments: text (str)
@@ -53,7 +59,7 @@ class Keyworder():
         return results
 
     # 3. PositionRank
-    def position_rank_extractor(text):
+    def position_rank_extractor(self, text):
         """
         Uses PositionRank to extract the top 5 keywords from a text
         Arguments: text (str)
@@ -80,7 +86,7 @@ class Keyworder():
         return results
 
     # 4. SingleRank
-    def single_rank_extractor(text):
+    def single_rank_extractor(self, text):
         """
         Uses SingleRank to extract the top 5 keywords from a text
         Arguments: text (str)
@@ -100,7 +106,7 @@ class Keyworder():
         return results
 
     # 5. MultipartiteRank
-    def multipartite_rank_extractor(text):
+    def multipartite_rank_extractor(self, text):
         """
         Uses MultipartiteRank to extract the top 5 keywords from a text
         Arguments: text (str)
@@ -124,7 +130,7 @@ class Keyworder():
         return results
 
     # 6. TopicRank
-    def topic_rank_extractor(text):
+    def topic_rank_extractor(self, text):
         """
         Uses TopicRank to extract the top 5 keywords from a text
         Arguments: text (str)
@@ -144,7 +150,7 @@ class Keyworder():
         return results
 
     # 7. KeyBERT
-    def keybert_extractor(text):
+    def keybert_extractor(self, text):
         bert = KeyBERT()
         """
         Uses KeyBERT to extract the top 5 keywords from a text
