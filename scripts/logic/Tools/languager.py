@@ -1,6 +1,7 @@
 import spacy
 from spacy.lang.en import English
-import en_core_web_sm
+import en_core_web_lg
+import pt_core_news_lg
 
 class Languager():
 
