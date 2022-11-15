@@ -79,7 +79,7 @@ parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
 pathy @ file:///opt/conda/conda-bld/pathy_1651566172310/work
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==9.2.0
+Pillow==9.3.0
 pke @ git+https://github.com/boudinfl/pke.git@5af1f817e0211c33ac3f90e1e86bb5c1283448e8
 pke-tool==1.8.1
 ply==3.11
